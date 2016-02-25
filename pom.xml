@@ -23,7 +23,7 @@
     
     <developers>
         <developer>
-            <name>hanyx</name>
+            <name>hanyongxu</name>
             <email>yongxu16@163.com</email>
         </developer>
     </developers>
@@ -38,7 +38,7 @@
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-compiler-plugin</artifactId>
-                <version>3.5.1</version>
+                <version>2.5.1</version>
                 <configuration>
                     <source>1.7</source>	<!-- 源代码使用的开发版本 -->
                     <target>1.7</target>	<!-- 需要生成的目标class文件的编译版本 -->
