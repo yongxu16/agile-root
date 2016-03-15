@@ -1,5 +1,5 @@
 # agile-root
-所有agile项目的父工程
+所有agile项目的父工程.
 
 <developer>
     <name>hanyongxu</name>
